@@ -842,7 +842,7 @@ vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-32c1,393,RIO GRANDE DO SUL,Colorado,
 vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-32c0,81,BAHIA,Nova Soure,2010,79305.59375,26874,2951.02001953,Produto Interno Bruto per capita, - 9639.65,1
 vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-32bf,1374,MATO GROSSO DO SUL,Amambai,2010,355782875,34986,10169.29003906,Produto Interno Bruto per capita,9639.65 - 22144.80,2
 vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-32be,4327,BAHIA,Canápolis,2010,32292.515625,11136,2899.83007812,Produto Interno Bruto per capita, - 9639.65,1
-vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-32bd,2192,BAHIA,Lamarão,,30241.3203125,12995,2327.14990234,Produto Interno Bruto per capita, - 9639.65,1
+vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-32bd,2192,BAHIA,Lamarão,2010,30241.3203125,12995,2327.14990234,Produto Interno Bruto per capita, - 9639.65,1
 vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-32bc,5303,TOCANTINS,Divinópolis do Tocantins,2010,49289.7421875,6623,7442.20996094,Produto Interno Bruto per capita, - 9639.65,1
 vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-32bb,3071,PARANÁ,Farol,2010,60915.0390625,3354,18161.91015625,Produto Interno Bruto per capita,9639.65 - 22144.80,2
 vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-32ba,1362,AMAPÁ,Itaubal,2010,32050.08203125,3650,8780.83984375,Produto Interno Bruto per capita, - 9639.65,1
@@ -2347,7 +2347,6 @@ vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-2ce0,3320,MINAS GERAIS,Toledo,2010,4
 vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-2cdf,4426,SÃO PAULO,Auriflama,2010,177045.75,14366,12323.94042969,Produto Interno Bruto per capita,9639.65 - 22144.80,2
 vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-2cde,1652,MARANHÃO,Jenipapo dos Vieiras,2010,51609.3203125,15438,3343.01000977,Produto Interno Bruto per capita, - 9639.65,1
 vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-2cdd,3474,PERNAMBUCO,Pedra,2010,121027.7890625,20788,5822,Produto Interno Bruto per capita, - 9639.65,1
-vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-2cdc,5130,PERNAMBUCO,Pedra,,121027.7890625,20788,5822,Produto Interno Bruto per capita, - 9639.65,1
 vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-2cdb,1718,RIO GRANDE DO NORTE,Poço Branco,2010,51087.0703125,12673,4031.16992188,Produto Interno Bruto per capita, - 9639.65,1
 vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-2cda,3437,MINAS GERAIS,Formoso,2010,113525.6953125,6857,16556.1796875,Produto Interno Bruto per capita,9639.65 - 22144.80,2
 vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-2cd9,981,GOIÁS,Mairipotaba,2010,29754.37695312,2811,10584.98046875,Produto Interno Bruto per capita,9639.65 - 22144.80,2
@@ -2682,7 +2681,7 @@ vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-2b91,50,RIO GRANDE DO SUL,União da 
 vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-2b90,5558,AMAZONAS,Alvarães,2010,53516.7578125,13566,3944.91992188,Produto Interno Bruto per capita, - 9639.65,1
 vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-2b8f,242,BAHIA,Varzedo,2010,39785.59765625,9451,4209.66992188,Produto Interno Bruto per capita, - 9639.65,1
 vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-2b8e,946,PIAUÍ,Brejo do Piauí,2010,13479.57128906,4025,3348.95996094,Produto Interno Bruto per capita, - 9639.65,1
-vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-2b8d,5129,PERNAMBUCO,Buíque,,251538.109375,53272,4721.77001953,Produto Interno Bruto per capita, - 9639.65,1
+vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-2b8d,5129,PERNAMBUCO,Buíque,2010,251538.109375,53272,4721.77001953,Produto Interno Bruto per capita, - 9639.65,1
 vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-2b8c,4425,SÃO PAULO,Ariranha,2010,757754875,8876,85371.2109375,Produto Interno Bruto per capita,52702.10 - 133669.00,4
 vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-2b8b,3654,PERNAMBUCO,Bonito,2010,182380.953125,40832,4466.62011719,Produto Interno Bruto per capita, - 9639.65,1
 vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-2b8a,641,RIO GRANDE DO SUL,Marcelino Ramos,2010,59109.97265625,5329,11092.12988281,Produto Interno Bruto per capita,9639.65 - 22144.80,2
@@ -3360,7 +3359,7 @@ vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-28eb,5459,SÃO PAULO,Guaratinguetá,
 vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-28ea,4610,BAHIA,Jussari,2010,33357.0625,6914,4824.56982422,Produto Interno Bruto per capita, - 9639.65,1
 vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-28e9,5398,SANTA CATARINA,Mondaí,2010,267737.5,9515,28138.4609375,Produto Interno Bruto per capita,22144.80 - 52702.10,3
 vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-28e8,2415,PARAÍBA,Conceição,2010,72604.3203125,17988,4036.26000977,Produto Interno Bruto per capita, - 9639.65,1
-vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-28e7,1754,SÃO PAULO,São Pedro,,348302.53125,31575,11030.95996094,Produto Interno Bruto per capita,9639.65 - 22144.80,2
+vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-28e7,1754,SÃO PAULO,São Pedro,2010,348302.53125,31575,11030.95996094,Produto Interno Bruto per capita,9639.65 - 22144.80,2
 vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-28e6,192,RIO GRANDE DO SUL,Teutônia,2010,613187.8125,27215,22531.25,Produto Interno Bruto per capita,22144.80 - 52702.10,3
 vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-28e5,4752,SÃO PAULO,Pontalinda,2010,38302.2890625,4200,9119.58984375,Produto Interno Bruto per capita, - 9639.65,1
 vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-28e4,2795,MINAS GERAIS,Arapuá,2010,42282.94140625,2778,15220.63964844,Produto Interno Bruto per capita,9639.65 - 22144.80,2
@@ -3383,7 +3382,6 @@ vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-28d4,3072,PARANÁ,Corumbataí do Sul
 vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-28d3,2354,PARAÍBA,Cajazeiras,2010,426916625,57875,7376.52978516,Produto Interno Bruto per capita, - 9639.65,1
 vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-28d2,4584,SÃO PAULO,Jales,2010,668454875,49996,13370.16992188,Produto Interno Bruto per capita,9639.65 - 22144.80,2
 vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-28d1,4917,SANTA CATARINA,Santo Amaro da Imperatriz,2010,209857.84375,18436,11383.04980469,Produto Interno Bruto per capita,9639.65 - 22144.80,2
-vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-28d0,5242,PERNAMBUCO,,,86340.6015625,19026,4538.02978516,Produto Interno Bruto per capita, - 9639.65,1
 vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-28cf,3440,MINAS GERAIS,Francisco Badaró,2010,36256.87890625,10604,3419.16992188,Produto Interno Bruto per capita, - 9639.65,1
 vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-28ce,1425,MATO GROSSO DO SUL,Tacuru,2010,94785.0703125,9554,9920.98046875,Produto Interno Bruto per capita,9639.65 - 22144.80,2
 vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-28cd,1824,RIO GRANDE DO NORTE,Lagoa de Pedras,2010,27062.73632812,7282,3716.38989258,Produto Interno Bruto per capita, - 9639.65,1
@@ -3507,7 +3505,7 @@ vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-2858,3471,PERNAMBUCO,Passira,2010,10
 vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-2857,1071,GOIÁS,Nerópolis,2010,338301.90625,20260,16698.01953125,Produto Interno Bruto per capita,9639.65 - 22144.80,2
 vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-2856,3499,MINAS GERAIS,Guaraciaba,2010,44316.84375,10820,4095.83007812,Produto Interno Bruto per capita, - 9639.65,1
 vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-2855,3544,PARANÁ,Francisco Beltrão,2010,1176560375,76311,15417.96972656,Produto Interno Bruto per capita,9639.65 - 22144.80,2
-vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-2854,1767,SÃO PAULO,Salto de Pirapora,,479193375,39616,12095.95996094,Produto Interno Bruto per capita,9639.65 - 22144.80,2
+vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-2854,1767,SÃO PAULO,Salto de Pirapora,2010,479193375,39616,12095.95996094,Produto Interno Bruto per capita,9639.65 - 22144.80,2
 vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-2853,3433,MINAS GERAIS,Ferros,2010,58730.26953125,11531,5093.25,Produto Interno Bruto per capita, - 9639.65,1
 vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-2852,4427,SÃO PAULO,Avaí,2010,46511.03125,5170,8996.33007812,Produto Interno Bruto per capita, - 9639.65,1
 vw_pib_percapita.fid--201a6f4f_16e1ddc8380_-2851,327,RIO GRANDE DO SUL,Guaporé,2010,334787625,22589,14820.83007812,Produto Interno Bruto per capita,9639.65 - 22144.80,2
