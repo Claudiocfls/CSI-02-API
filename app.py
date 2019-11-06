@@ -2,7 +2,7 @@ from unicodedata import normalize
 from flask import Flask, request, jsonify
 from flask_sqlalchemy import SQLAlchemy
 import os
-# import csv
+import csv
 
 app = Flask(__name__)
 
